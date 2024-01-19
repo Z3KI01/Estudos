@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\bin\Debug\ConversordeeTemperatura.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\bin\Debug\ConversordeeTemperatura.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\bin\Debug\ConversordeeTemperatura.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\obj\Debug\ConversordeeTemperatura.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\obj\Debug\ConversordeeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\obj\Debug\ConversordeeTemperatura.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConversordeeTemperatura\obj\Debug\ConversordeeTemperatura.pdb

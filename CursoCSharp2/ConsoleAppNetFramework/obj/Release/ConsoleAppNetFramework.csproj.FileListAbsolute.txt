@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\bin\Release\ConsoleAppNetFramework.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\bin\Release\ConsoleAppNetFramework.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\bin\Release\ConsoleAppNetFramework.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\obj\Release\ConsoleAppNetFramework.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\obj\Release\ConsoleAppNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\obj\Release\ConsoleAppNetFramework.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\ConsoleAppNetFramework\obj\Release\ConsoleAppNetFramework.pdb

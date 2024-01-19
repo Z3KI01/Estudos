@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\bin\Debug\Conversao.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\bin\Debug\Conversao.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\obj\Debug\Conversao.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Conversao\obj\Debug\Conversao.pdb

@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\bin\Debug\EtradaSaida.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\bin\Debug\EtradaSaida.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\bin\Debug\EtradaSaida.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\obj\Debug\EtradaSaida.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\obj\Debug\EtradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\obj\Debug\EtradaSaida.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\EtradaSaida\obj\Debug\EtradaSaida.pdb

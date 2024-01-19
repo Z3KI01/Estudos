@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\InverterNomes\obj\Debug\InverterNomes.pdb

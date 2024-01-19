@@ -1,0 +1,16 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\bin\Release\net8.0-windows\Olá Mundo!.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\bin\Release\net8.0-windows\Olá Mundo!.deps.json
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\bin\Release\net8.0-windows\Olá Mundo!.runtimeconfig.json
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\bin\Release\net8.0-windows\Olá Mundo!.dll
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\bin\Release\net8.0-windows\Olá Mundo!.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá_Mundo_.Form1.resources
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.csproj.GenerateResource.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.AssemblyInfoInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.AssemblyInfo.cs
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.dll
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\refint\Olá Mundo!.dll
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\Olá Mundo!.genruntimeconfig.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Olá Mundo!\obj\Release\net8.0-windows\ref\Olá Mundo!.dll

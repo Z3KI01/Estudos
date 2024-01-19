@@ -1,0 +1,10 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\bin\Release\FormsAppNetFramework.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\bin\Release\FormsAppNetFramework.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\bin\Release\FormsAppNetFramework.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.Form1.resources
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.Properties.Resources.resources
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.csproj.GenerateResource.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\FormsAppNetFramework\obj\Release\FormsAppNetFramework.pdb

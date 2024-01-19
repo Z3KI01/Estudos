@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\bin\Debug\Variáveis.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\bin\Debug\Variáveis.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\bin\Debug\Variáveis.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\obj\Debug\Variáveis.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\obj\Debug\Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\obj\Debug\Variáveis.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Variáveis\obj\Debug\Variáveis.pdb

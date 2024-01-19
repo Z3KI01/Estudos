@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\bin\Debug\Colecao.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\bin\Debug\Colecao.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\bin\Debug\Colecao.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\obj\Debug\Colecao.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Colecao\obj\Debug\Colecao.pdb
