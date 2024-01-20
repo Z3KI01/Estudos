@@ -1,3 +1,4 @@
 !*.cs
-!*.sln
 !*.csproj
+program.cs
+CursoCSharp2/Condicao/.vs/

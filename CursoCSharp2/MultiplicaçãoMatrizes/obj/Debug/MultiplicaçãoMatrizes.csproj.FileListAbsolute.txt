@@ -1,0 +1,7 @@
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\bin\Debug\MultiplicaçãoMatrizes.exe.config
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\bin\Debug\MultiplicaçãoMatrizes.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\bin\Debug\MultiplicaçãoMatrizes.pdb
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\obj\Debug\MultiplicaçãoMatrizes.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\obj\Debug\MultiplicaçãoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\obj\Debug\MultiplicaçãoMatrizes.exe
+C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\MultiplicaçãoMatrizes\obj\Debug\MultiplicaçãoMatrizes.pdb
