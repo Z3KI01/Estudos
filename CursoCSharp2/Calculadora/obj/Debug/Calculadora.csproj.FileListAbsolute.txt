@@ -1,7 +1,0 @@
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\bin\Debug\Calculadora.exe.config
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\bin\Debug\Calculadora.exe
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\bin\Debug\Calculadora.pdb
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\obj\Debug\Calculadora.exe
-C:\Users\ezequ\OneDrive\Documentos\Des\CursoCSharp2\Calculadora\obj\Debug\Calculadora.pdb
